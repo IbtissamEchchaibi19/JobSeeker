@@ -58,10 +58,10 @@ There are two back-end branches:
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![LangChain](https://img.shields.io/badge/LangChain-%234F7D8C.svg?style=for-the-badge&logo=langchain&logoColor=white)
 [![Gemini Pro Vision](https://img.shields.io/badge/Gemini%20Pro%20Vision-blue?style=for-the-badge&logo=text&logoColor=white)]
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-%2300D084.svg?style=for-the-badge&logo=pinecone&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
 
@@ -69,18 +69,18 @@ There are two back-end branches:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
 
 
 <a name="usage"></a>
 ## 💻 Usage
 
-1. Open the [TeethSeg](https://teethseg.vercel.app/) web application.
-2. Sign In to your account.
-3. Head to the "Start" page and upload your dental scan in OBJ format.
-4. Click "Start Segmentation" to initiate the segmentation process.
-5. Visualize the segmentation results in real-time.
-6. Download the segmented VTP file for further analysis or visualization.
-
+1. Open the [JobSekker](https://hiringwebsite.netlify.app/) web application.
+2. Upload your resume.
+3. Click "Process CV" to initiate the resume processing.
+4. Visualize the extracted resume information.
+5. If all the information is extracted correctly, start using the features you want for your recruitment process.
 
 <a name="contact"></a>
 ## 📨 Contact Me
