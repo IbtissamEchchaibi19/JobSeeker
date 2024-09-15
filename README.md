@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://teethseg.vercel.app/">
-    <img src="https://github.com/Hamagistral/TeethSeg/assets/Screenshot 2024-09-15 220715.png" alt="Banner" width="720">
+    <img src="https://github.com/IbtissamEchchaibi19/JobSeeker-AI-3D-smart-factory-/blob/f6cc7d03593dad54f00f80e98214e99db0318d5f/Screenshot%202024-09-15%20220715.png" alt="Banner" width="720">
   </a>
 
   <div id="user-content-toc">
