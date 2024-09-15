@@ -45,7 +45,7 @@
 
 ### ⚙️ Back End
 
-![architecture-backend](https://github.com/Hamagistral/TeethSeg/assets/66017329/3eddbe6e-1afb-4a52-8128-006367c0d670)
+![architecture-backend](https://github.com/IbtissamEchchaibi19/JobSeeker-AI-3D-smart-factory-/blob/7520f41ba6d2af5089e110148eef7eed58b26a1a/backednarchct3d.png)
 
 There are two back-end branches:
 
@@ -85,6 +85,6 @@ There are two back-end branches:
 <a name="contact"></a>
 ## 📨 Contact Me
 
-[LinkedIn](https://www.linkedin.com/in/hamza-elbelghiti/) •
-[Website](https://Hamagistral.me) •
-[Gmail](hamza.lbelghiti@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ibtissam-ech-chaibi/) •
+[Website](https://ibtissamportfolio.netlify.app/) •
+[Gmail](hamza.echchaibi@gmail.com)
