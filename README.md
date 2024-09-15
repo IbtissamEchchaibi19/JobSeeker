@@ -36,7 +36,7 @@
 
 - **Real-Time Chatbot Support:** The platform includes a real-time chatbot powered by LLMs (Gemini), providing immediate assistance and answering questions related to the job market, helping users make informed decisions.
 
--**Robust Backend System:** The app’s backend is developed using FastAPI for efficient API management and Docker for containerization, ensuring scalability and reliability. It employs MongoDB for data storage and Pinecone for vector-based queries. The platform also integrates Google Job Search, Google News, and Google Search to provide real-time job discovery tailored to user needs.
+- **Robust Backend System:** The app’s backend is developed using FastAPI for efficient API management and Docker for containerization, ensuring scalability and reliability. It employs MongoDB for data storage and Pinecone for vector-based queries. The platform also integrates Google Job Search, Google News, and Google Search to provide real-time job discovery tailored to user needs.
 - **User-Friendly Interface:** The frontend is built with React, providing an intuitive and responsive platform where users can easily interact, process their resumes, generate interview questions, and view results in real-time.
 
 
