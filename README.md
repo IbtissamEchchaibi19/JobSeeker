@@ -46,12 +46,6 @@
 ### ⚙️ Back End
 
 ![architecture-backend](https://github.com/IbtissamEchchaibi19/JobSeeker-AI-3D-smart-factory-/blob/7520f41ba6d2af5089e110148eef7eed58b26a1a/backednarchct3d.png)
-
-There are two back-end branches:
-
-- [Back end Locally](https://github.com/Hamagistral/TeethSeg/tree/backend_local)
-- [Back end in AWS Cloud](https://github.com/Hamagistral/TeethSeg/tree/backend_aws)
-
 ### 🛠️ Technologies Used
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
