@@ -5,14 +5,12 @@
 
   <div id="user-content-toc">
     <ul>
-      <summary><h1 style="display: inline-block;">TeethSeg</h1></summary>
+      <summary><h1 style="display: inline-block;">JobSeeker</h1></summary>
     </ul>
   </div>
   
-  <p>AI Based Automated Teeth Segmentation using MeshSegNet</p>
-    <a href="https://teethseg-ai.vercel.app/" target="_blank">Live Preview</a>
-    🦷
-    <a href="https://github.com/Hamagistral/TeethSeg/issues" target="_blank">Request Feature</a>
+  <p>AI Based for whole seeking job process</p>
+    <a href="https://hiringwebsite.netlify.app/" target="_blank">Live Preview</a>
 </div>
 <br>
 
@@ -28,22 +26,19 @@
 <a name="introduction"></a>
 ## 🔬 Project Overview 
 
-**TeethSeg** is a summer Internship Project made for "*3D SMART FACTORY*" a Moroccan company specializing in the 3D field. This project is a solution that simplifies the complex task of 3D dental scan segmentation. In the field of dentistry, analyzing intraoral scans is a critical component of treatment planning and evaluation. Traditionally, this process has been time-consuming and prone to errors. TeethSeg addresses these challenges by harnessing the power of deep learning and modern web technologies. Our team was charged with the task of first deploying the model as a REST API to be able to communicate with it via the web, and then building an interactive web application with a stylish and simple-to-use UI with integrated 3D visualizations.  
+**JobSeeker** This summer internship project was developed for *3D SMART FACTORY*, a Moroccan company specializing in 3D technology and AI. The project provides a comprehensive solution that simplifies the often complex and fragmented process of searching for jobs or internship opportunities. Typically, job seekers must rely on multiple platforms to manage tasks like resume building, generating interview questions, receiving personalized advice, and testing whether a specific job aligns with their skills and interests. Additionally, they must constantly search for real-time opportunities across different websites. This project consolidates all these functions into one platform, saving time and effort. By leveraging the power of large language models (LLMs) and fine-tuning them, combined with cutting-edge web technologies, it streamlines the job search process and enhances the user experience..
 
-<a name="features"></a>
 ## 🔌 Key Features
 
-- **3D Dental Scan Segmentation:** TeethSeg employs advanced deep learning techniques, utilizing the MeshSegNet model, to accurately segment teeth in 3D scans. This functionality is invaluable for dental professionals and researchers seeking precise and efficient analysis.
+- **Career Support Application:** This app enhances the job application and search process by allowing users to upload their resumes for tailored advice, generate interview questions, and receive feedback. The app simplifies the job search by providing a comprehensive, personalized experience in one platform.
 
-- **User-Friendly Interface:** The frontend of TeethSeg is designed with user-friendliness in mind. Built using Vite, React.js, Three.js, and VTK.js, it provides an intuitive platform for users to upload scans, initiate segmentation, and view results in real-time.
+- **Tailored Job Assistance:** Users can input job descriptions to create customized cover letters, get personalized job search tips, and evaluate how well their resume fits a specific role. The app also provides real-time job opportunities and trending news based on user queries.
 
-- **Seamless Cloud Integration:** TeethSeg's backend is hosted on the AWS Cloud, leveraging services such as Amazon Elastic Container Registry (ECR), AWS Lambda, and API Gateway. This architecture ensures scalability, reliability, and high availability.
+- **Real-Time Chatbot Support:** The platform includes a real-time chatbot powered by LLMs (Gemini), providing immediate assistance and answering questions related to the job market, helping users make informed decisions.
 
-- **Instant Visualization:** Users can upload their dental scans in OBJ format, kickstart the segmentation process, and immediately visualize the results. Furthermore, the segmented data can be downloaded in VTP format for further analysis.
+-**Robust Backend System:** The app’s backend is developed using FastAPI for efficient API management and Docker for containerization, ensuring scalability and reliability. It employs MongoDB for data storage and Pinecone for vector-based queries. The platform also integrates Google Job Search, Google News, and Google Search to provide real-time job discovery tailored to user needs.
+- **User-Friendly Interface:** The frontend is built with React, providing an intuitive and responsive platform where users can easily interact, process their resumes, generate interview questions, and view results in real-time.
 
-- **Data Security and Privacy:** TeethSeg places a strong emphasis on data security and privacy, adhering to industry standards and regulations, particularly crucial when handling sensitive medical data.
-
-With TeethSeg, dental professionals can save valuable time and enhance their diagnostic capabilities. Its accessibility and ease of use make it a valuable tool in the field of dentistry, while its robust architecture ensures reliable performance, even in demanding environments.  
 
 <a name="arch"></a>
 ## 📝 Project Architecture
@@ -91,10 +86,6 @@ For more see the [front end branch](https://github.com/Hamagistral/TeethSeg/tree
 5. Visualize the segmentation results in real-time.
 6. Download the segmented VTP file for further analysis or visualization.
 
-<a name="team"></a>
-## 👥 Team
-
-![image](https://github.com/Hamagistral/TeethSeg/assets/66017329/3608dd52-6d3f-4f88-8da8-f3592bc7d42e)
 
 <a name="contact"></a>
 ## 📨 Contact Me
