@@ -10,7 +10,7 @@
   </div>
   
   <p>AI Based for whole seeking job process</p>
-    <a href="https://hiringwebsite.netlify.app/" target="_blank">Live Preview</a>
+    
 </div>
 <br>
 
